@@ -1,6 +1,3 @@
-
----
-
 # LoopStudio Website
 
 LoopStudio is a static website designed to showcase impressive audio and visual experiences. The site features a modern, responsive design and is built with Tailwind CSS for streamlined development and customization.
@@ -54,5 +51,3 @@ The project is deployed on Vercel. You can access the live site at: [LoopStudio 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
